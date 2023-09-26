@@ -1,4 +1,4 @@
-# Internship - eBramha
+# Internship
 
 🎓 Internship Files and Codes
 
