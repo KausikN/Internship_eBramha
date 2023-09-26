@@ -6,7 +6,7 @@
 
 🏢 [eBramha](https://ebramha.com/)
 
-## Internship
+## Details
 
 |    Name    |    Start    |     End     |      Description      |
 | :--------: | :---------: | :---------: | :-------------------: |
